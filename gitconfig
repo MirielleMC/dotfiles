@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pamelamc23@gmail.com
+	name = Pamela Matias
